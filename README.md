@@ -1,1 +1,1 @@
-Did you read it? haha
+Kata Solutions for Codewars. Don't use these to cheat! 
